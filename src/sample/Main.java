@@ -20,7 +20,7 @@ public class Main extends Application {
     ArrayList<Points> points = new ArrayList<>();
     ArrayList<Lines> lines = new ArrayList<>();
     ArrayList<Grid> grid = new ArrayList<>();
-    int res = 20;//default is 40
+    int res = 40;//default is 40
     //1; 2; 3; 4; 5; 6; 8; 10; 12; 15; 20; 24; 30; 40; 60 and 120
     int WIDTH = Toolkit.getDefaultToolkit().getScreenSize().width;
     int HEIGHT = Toolkit.getDefaultToolkit().getScreenSize().height;
